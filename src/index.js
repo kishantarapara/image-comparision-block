@@ -48,7 +48,7 @@ const BlockEdit = (props) => {
             <MediaUploadCheck>
               <MediaUpload
                 onSelect={onSelectBefore}
-                value={attributes.beforeImageId}
+                value={beforeImageId}
                 allowedTypes={["image"]}
                 render={({ open }) => (
                   <Button
