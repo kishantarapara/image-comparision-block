@@ -6,7 +6,7 @@ This block enables users to compare two images interactively using a slider. It'
 
 ## Demo
 
-![App Demo](https://github.com/kishantarapara/image-comparision-block/blob/main/demo.gif)
+![](https://res.cloudinary.com/dgdkcpmj0/image/upload/v1690023380/demo_w95boi.gif)
 
 
 
